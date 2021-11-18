@@ -1,0 +1,11 @@
+* crear una funcion para verificar numeros pares (verificar con SI/NO) y escribir su test
+* crear una funcion que me diga si todos los numeros son pares en un array con SI/NO
+* subir su proyecto a github crear su archivo yml para establecer el workflow
+* escribir una funcion que me diga la longitud de un string
+* escribir una funcion que dado un numero me retorne el dìa de la semana, comenzando con domingo
+* escribir una funcion que me retorne la hr actual 
+* para cada grupo de test crear un archivo nuevo
+* crear una funcion que me ordene numeros dado un array 
+* escribir una funcion que retorne una palabra en mayusculas dada una palabra en minusculas
+
+* para cada funcion escribir 6 casos con mocha
